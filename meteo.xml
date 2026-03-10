@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "file:/C:/Users/s.rochdi/Desktop/ENSET/Technologie%20XML%20et%20Web%20Service/Projets/meteo.dtd">
+<meteo>
+    <mesure date="2020-11-10">
+        <ville nom="Rabat" temperature="25"/>
+        <ville nom="Casa" temperature="24"/>
+        <ville nom="Khouribga" temperature="30"/>
+        <ville nom="Tanger" temperature="22"/>
+        <ville nom="Dakhla" temperature="22"/>
+    </mesure>
+    <mesure date="2020-11-11">
+        <ville nom="Rabat" temperature="26"/>
+        <ville nom="Casa" temperature="25"/>
+        <ville nom="Khouribga" temperature="31"/>
+        <ville nom="Tanger" temperature="27"/>
+        <ville nom="Dakhla" temperature="23"/>
+    </mesure>
+</meteo>
